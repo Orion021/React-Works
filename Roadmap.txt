@@ -1,0 +1,47 @@
+Day 1
+    - Introduction to Web
+    - HTML Revision
+    - CSS Revision
+    - JS Revision
+
+Day 2
+    - React Introduction and Installation
+    - React basics
+        - Basic Commands
+        - Creating First React Project with Vite
+        - Explain React Project directory
+        - Explain Components with Examples
+            - Create 3 Diffrent Componets and import all to App.jsx and show
+        - Excercise
+            - Give them a Cards project using React Basics of Day 2
+            
+Day 3
+    - Adding CSS using 1.External, 2.Modules, 3.Inline to App.jsx
+        - 1. Create Button and apply External CSS using index.css
+        - 2. Create Button.module.css and import to Button.jsx
+        - 3. Apply inline css using JS
+
+
+
+
+
+Day 4
+    - 
+
+
+
+
+
+
+
+Day 5
+    - 
+
+
+
+
+
+
+
+Day 6
+    -
