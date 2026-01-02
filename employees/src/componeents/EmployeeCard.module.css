@@ -1,0 +1,88 @@
+.card {
+  width: 300px;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #ffffff;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.cover {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+
+.profileSection {
+  margin-top: -40px;
+}
+
+.profilePic {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 3px solid #ffffff;
+  object-fit: cover;
+}
+
+.name {
+  margin: 8px 0 2px;
+  font-size: 18px;
+}
+
+.email {
+  font-size: 13px;
+  color: #666;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 0;
+  font-size: 13px;
+}
+
+.active {
+  color: #0a8a0a;
+  font-weight: bold;
+}
+
+.inactive {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  margin: 10px;
+}
+
+.skill {
+  background: #f1f1f1;
+  padding: 4px 10px;
+  border-radius: 14px;
+  font-size: 12px;
+}
+
+.hobby {
+  font-size: 13px;
+  margin: 8px 0;
+}
+
+.foodSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 12px;
+}
+
+.foodPic {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}

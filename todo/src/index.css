@@ -1,0 +1,13 @@
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+td {
+  width: 80px;
+  height: 80px;
+  font-size: 32px;
+  text-align: center;
+  border: 2px solid black;
+  cursor: pointer;
+}

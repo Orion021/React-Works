@@ -1,17 +1,10 @@
-import Header from "./components/Header";
-import Card from "./components/Card";
-import Footer from "./components/Footer";
+import ThemeToggle from "./ThemeToggle.jsx";
 
 function App() {
   return (
     <div>
-      <Header />
-
-      <Card />
-      <Card />
-      <Card />
-
-      <Footer />
+      <h1>Conditional Rendering</h1>
+      <ThemeToggle />
     </div>
   );
 }
